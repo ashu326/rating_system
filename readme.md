@@ -47,8 +47,8 @@ DB Schema:
 Steps to run the application
 
 1. Create db in local system
-2. node creatingDBTablesScript.js
-3. node insertingDBValuesScript.js
-4. add db configs in env file
-5. npm i
+2. npm i
+3. add db configs in env file
+4. node creatingDBTablesScript.js
+5. node insertingDBValuesScript.js
 6. npm start
